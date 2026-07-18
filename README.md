@@ -13,8 +13,7 @@ Le système observe **25 ans de données journalières sur 137 instruments**
 seule chose : la **structure des liens** — corrélations qui se nouent, se
 déchirent ou se taisent — plutôt que les prix isolés. L'intuition fondatrice : la
 vérité du déplacement des capitaux ne se lit dans aucun instrument seul, mais
-dans tout le système saisi simultanément. La genèse complète est racontée dans
-[`GENESE.md`](GENESE.md).
+dans tout le système saisi simultanément.
 
 ## D'où sortent les chiffres
 
